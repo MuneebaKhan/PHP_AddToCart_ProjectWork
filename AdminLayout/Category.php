@@ -101,7 +101,7 @@
     <div class="container"> <br>
         <h3 class = "mt-5">Insert Data In DataBase</h3> <br>
 
-        <form action="CategoryCrud.php" method="post" enctype="multipart/form-data">
+        <form action="CategoryCrud.php" method="post">
 
             <div class="row">
 
